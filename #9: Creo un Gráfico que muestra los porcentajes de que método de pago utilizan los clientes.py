@@ -10,4 +10,5 @@ ingreso_metodo.plot(
     fontsize=15
 )
 plt.ylabel("")
+
 plt.title("Comparison of payment methods (Comparación métodos de pago)")
