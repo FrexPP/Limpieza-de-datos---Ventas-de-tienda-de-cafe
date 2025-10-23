@@ -11,3 +11,8 @@ df
 df.replace(["ERROR","UNKNOWN","NaN","<NA>"],pd.NA,inplace=True)
 # Elimino filas duplicadas.
 df.drop_duplicates(inplace=True)
+
+"""
+Ver resultado de df.info():
+[Haz clic aquí para ver la imagen](https://github.com/FrexPP/Limpieza-de-datos---Ventas-de-tienda-de-cafe/blob/main/image.png)
+"""
