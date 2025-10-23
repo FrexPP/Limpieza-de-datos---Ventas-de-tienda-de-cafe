@@ -1,0 +1,13 @@
+#Limpieza de datos de ventas de una cafetería 2023
+
+Dejo en este repositorio de GitHub todo el proceso realizado para
+limpiar de una forma eficiente un listado de ventas de una tienda
+de café. Además, con el archivo ya limpio, realizo 3 gráficos a
+modo de análisis general.
+El archivo es un .csv de 8 columnas y 10000 filas que contienen
+varios errores.
+Enlace de la página de Keggle, donde está publicado el archivo: https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training/data
+
+Gracias por tomarte el tiempo de revisar mi proyecto.
+Franco Tomás Ferreyra
+Practicante Data Analyst
